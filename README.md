@@ -22,7 +22,7 @@
   
 ### :man_technologist: About Me :
   :wave: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
-  - :telescope: I’m a Student and in my freetime i create some HTML-Sites, this sites include off course CSS too.
+  - :telescope: I’m a Student and in my freetime i create some HTML-Sites, this sites includes off course CSS too.
 
 - :seedling: Exploring te Programming-World
 
