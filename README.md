@@ -11,16 +11,18 @@
 <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
   
 <div id="header" align="left">
----
+
+ ---
 
   
-### :man_technologist: About Me :
+### :man_technologist: About Me 
   :wave: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
   - :telescope: I’m a Student and in my freetime i create some HTML-Sites, this sites includes off course CSS too.
 
@@ -28,7 +30,10 @@
 
 - :zap: In my free time, I programm HTML+CSS Website in VSCode and play Video Games
 
-- :mailbox:How to reach me: <max.draws.coding@gmail.com>
+- :mailbox: How to reach me: <max.draws.coding@gmail.com>
+### Goals
+  
+- 🏆 Become a very good Programmer
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -56,4 +61,5 @@
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaxDraws&theme=dark&background=000000)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/MaxDraws/github-readme-stats)
----
+
+ ---
