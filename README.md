@@ -27,4 +27,4 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me:
+- :mailbox:How to reach me: <max.draws.coding@gmail.com>
