@@ -31,7 +31,11 @@
 - :zap: In my free time, I programm HTML+CSS Website in VSCode and play Video Games
 
 - :mailbox: How to reach me: <max.draws.coding@gmail.com>
-### Goals
+  
+---
+  
+  
+### My Goals
   
 - 🏆 Become a very good Programmer
 ---
